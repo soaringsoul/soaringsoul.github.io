@@ -1,0 +1,19 @@
+{
+  "name": "夜雨微寒",
+  "short_name": "夜雨微寒",
+  "description": "About an data engineer & PM who loves data.",
+  "icons": [{
+    "src": "icons/little_prince128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icons/little_prince512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#faaaaa",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
