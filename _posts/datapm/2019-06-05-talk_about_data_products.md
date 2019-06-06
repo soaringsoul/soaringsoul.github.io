@@ -128,7 +128,7 @@ typora-root-url: ..\..
 
   代表产品一般为各互联网公司数据部门的ETL框架或者组件，一般不对外公开，但是也有一部分公司将自己的ETL框架开源出来了，如Apache Airflow，链接：<https://github.com/apache/airflow。
 
-  ![airflow工作界面](/img/posts/airflow.png)
+  ![airflow工作界面](img/posts/airflow.png)
 
   
 
@@ -138,7 +138,7 @@ typora-root-url: ..\..
 
   另外，部分金融科技公司或者具有征信资质的数据公司对外提供的纯数据服务，如企查查对外提供的工商信息查询服务、百融、同盾提供的反欺诈验证服务等，因为这种纯数据服务一般是在数据仓库上层架设一套服务程序对外输出数据，所以也可以认为是属于这个层面的产品，不过这些产品如果说要归并到数据应用层面，也是说得通的。
 
-  ![企查查api服务界面](/img/posts/qichacha_api.png)
+  ![企查查api服务界面](img/posts/qichacha_api.png)
 
 * 数据应用层面、
 
@@ -150,7 +150,7 @@ typora-root-url: ..\..
 
 我将这四个层面的数据产品的产品形态和代表产品进行了梳理，具体如下图所示：
 
-![data_product_classify](/img\posts\data_product_classify.png)
+![data_product_classify](img\posts\data_product_classify.png)
 
 
 
