@@ -31,27 +31,26 @@
 ----------
 
 ### 近期动态
-* 征信查询网点小程序的开发与迭代
+* 征信查询网点微信小程序的开发与迭代
 
   ![wx_minitool](/img/my_product/wx_minitool.png)
 
-
-* TDD 测试驱动开发
-* 从产品经理视角去看微信小程序的设计
 
 ----------
 
 
 ### 最近文章：
 
-* 15 Nov 2018 [机器学习：评分卡建模（三）建立逻辑回归模型](https://xugongli.github.io/2018/11/15/scordcard_logisticRegression/)
-* 10 Nov 2018 [机器学习：评分卡建模（二）特征工程](https://xugongli.github.io/2018/11/10/scorecard_feature_engineering/)
-* 07 Nov 2018 [机器学习：评分卡建模（一）数据分析与数据预处理](https://xugongli.github.io/2018/11/06/scordcard_data_preprocessing/)
-* 02 Nov 2018 [产品认知：浅谈平衡专业领域深度和广度的重要性](https://xugongli.github.io/2018/11/02/balance_profession_fields/)
-* 30 Oct 2018 [编程小记：获取中国指定行政区域内所有POIS(兴趣点)的方法](https://xugongli.github.io/2018/10/30/get-specific-area-pois/)
-* 19 Oct 2018 [产品认知：数据产品经理的自我修养：基于案例谈谈最小化产品（MVP)理念下的产品设计与开发](https://xugongli.github.io/2018/10/18/use_easy_example_show_pm_flow/)	
-* 12 Oct 2018 [技术翻译：适合Pythoner的React入门教程](https://xugongli.github.io/2018/10/11/react-for-python-developers/)
-* 10 Aug 2018 [机器学习：数据科学中的二向箔-主成分分析法原理及Python实现方法](https://xugongli.github.io/2018/08/10/pca_introduction/)
+- 06 June 2019 [产品思维：谈谈我对数据产品的理解](<http://xugongli.club/2019/06/05/talk_about_data_products/>)
+
+- 02 Nov 2018 [产品思维：浅谈平衡专业领域深度和广度的重要性](https://xugongli.github.io/2018/11/02/balance_profession_fields/)
+- 19 Oct 2018 [产品思维：基于案例谈谈最小化产品（MVP)理念下的产品设计与开发](https://xugongli.github.io/2018/10/18/use_easy_example_show_pm_flow/)	
+- 15 Nov 2018 [机器学习：评分卡建模（三）建立逻辑回归模型](https://xugongli.github.io/2018/11/15/scordcard_logisticRegression/)
+- 10 Nov 2018 [机器学习：评分卡建模（二）特征工程](https://xugongli.github.io/2018/11/10/scorecard_feature_engineering/)
+- 07 Nov 2018 [机器学习：评分卡建模（一）数据分析与数据预处理](https://xugongli.github.io/2018/11/06/scordcard_data_preprocessing/)
+- 30 Oct 2018 [编程小记：获取中国指定行政区域内所有POIS(兴趣点)的方法](https://xugongli.github.io/2018/10/30/get-specific-area-pois/)
+- 12 Oct 2018 [技术翻译：适合Pythoner的React入门教程](https://xugongli.github.io/2018/10/11/react-for-python-developers/)
+- 10 Aug 2018 [机器学习：数据科学中的二向箔-主成分分析法原理及Python实现方法](
 
 ----------
 
@@ -67,7 +66,6 @@
 ### 我的开源项目
 
 #### [中国指定行政区域范围所有兴趣点采集工具](https://github.com/xugongli/china_region_pois_spider) 
-
 
 > 
 > 一个基于高德地图和百度地图，通过递归算法结合`scrapy`框架的数据采集程序，可稳定高效快速获取中国一个或多个指定行政区域内所有的超市、便利店、商场、市场、学校等兴趣点的信息，包含经纬度，一级行业分类，二级行业分类、省、市、区县、街道等多维度数据。
