@@ -8,13 +8,14 @@ header-img: "img/posts/default_post.jpg"
 catalog: true
 tags:
     - 学习笔记
-typora-root-url: ..\..
+
+
 ---
 
 # 
 ## 1 数据产品与产品之间的关系
 
-面向对象编程 (Object Oriented Programming，简称OOP) 语言中有个术语叫“继承”，子对象会继承父对象的属性。例如猫是动物的一种，它具有了动物的属性、波斯猫又是猫的一种，它又具有了猫的所有属性。![oop](/img/posts/oop.jpg)
+面向对象编程 (Object Oriented Programming，简称OOP) 语言中有个术语叫“继承”，子对象会继承父对象的属性。例如猫是动物的一种，它具有了动物的属性、波斯猫又是猫的一种，它又具有了猫的所有属性。![oop](/img/oop.jpg)
 
 那么，从OOP术语来看，“数据产品”是数据相关的产品，是“产品”的子集。继承了“产品”的属性，它具有“产品”的所有属性，并在“产品”所有通用属性的基础上具备了一般产品所不具备的“数据”属性。
 
@@ -128,7 +129,7 @@ typora-root-url: ..\..
 
   代表产品一般为各互联网公司数据部门的ETL框架或者组件，一般不对外公开，但是也有一部分公司将自己的ETL框架开源出来了，如Apache Airflow，链接：<https://github.com/apache/airflow。
 
-  ![airflow工作界面](img/posts/airflow.png)
+  ![airflow工作界面](/img/airflow.png)
 
   
 
@@ -138,7 +139,7 @@ typora-root-url: ..\..
 
   另外，部分金融科技公司或者具有征信资质的数据公司对外提供的纯数据服务，如企查查对外提供的工商信息查询服务、百融、同盾提供的反欺诈验证服务等，因为这种纯数据服务一般是在数据仓库上层架设一套服务程序对外输出数据，所以也可以认为是属于这个层面的产品，不过这些产品如果说要归并到数据应用层面，也是说得通的。
 
-  ![企查查api服务界面](img/posts/qichacha_api.png)
+  ![企查查api服务界面](/img/qichacha_api.png)
 
 * 数据应用层面、
 
@@ -150,7 +151,7 @@ typora-root-url: ..\..
 
 我将这四个层面的数据产品的产品形态和代表产品进行了梳理，具体如下图所示：
 
-![data_product_classify](img\posts\data_product_classify.png)
+![data_product_classify](/img/data_product_classify.png)
 
 
 
