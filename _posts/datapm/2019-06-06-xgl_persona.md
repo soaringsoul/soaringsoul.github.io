@@ -23,7 +23,7 @@ tags:
 * 工作单位：上海数喆数据科技有限公司
 * 常用软件：Axure、Xmind、Markdown编辑器、Visio
 * 经常关注网站：知乎、人人都是产品经理、Github
-* 个人网站：https://xugongli.club/
+* 个人网站：<https://xugongli.club/>
 
 ### 用户特性
 
