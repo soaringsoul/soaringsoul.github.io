@@ -7,3 +7,15 @@
   {% endfor %}
 </ul>
 {% endif %}
+
+{% if site.icps %}
+<hr>
+<h5>ICP</h5>
+<ul class="list-inline">
+  {% for icp in site.icps %}
+  <li><img src="https://beian.mps.gov.cn/img/logo01.dd7ff50e.png" alt="公安备案图标" width="20" style="vertical-align: middle; margin-right: 5px;"></li>
+  <li><a href="{{icp.href}}">{{icp.title}}</a></li>
+ 
+  {% endfor %}
+</ul>
+{% endif %}

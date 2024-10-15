@@ -106,4 +106,14 @@ friends: [
         href: "http://zhihu.com"
     }
 ]
+
+# icps
+icps: [
+    
+  {
+        title: "蜀ICP备2024101353号-1",
+        href: "https://beian.miit.gov.cn/"
+    }
+]
+
 theme: jekyll-theme-cayman
