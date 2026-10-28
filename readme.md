@@ -22,7 +22,7 @@
 
 ### 联系我
 
-- Email：951683309@qq.com 
+- Email：ditubang@yeah.net 
 - 知乎：[夜雨微寒的知乎主页](https://www.zhihu.com/people/yywh/activities)
 - Github：[夜雨微寒的GitHubPages](https://xugongli.github.io/)
 
